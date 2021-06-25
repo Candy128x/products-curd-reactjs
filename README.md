@@ -3,7 +3,7 @@
 
 ---
 ## Demo
-- Video [link](https://github.com/ashish1997it/product_curd_reactjs/blob/master/readme_docs/vids/vid201020b-2021-06-25_23.25.35.mp4)
+- Video [link](/readme_docs/vids/vid201020b-2021-06-25_23.25.35.mp4)
 
 
 ---
